@@ -1,4 +1,4 @@
 
 
 
-https://abuabzam.github.io/dice/
+https://github.com/abuabzam/dice.git
